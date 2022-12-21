@@ -1,6 +1,6 @@
   <h1>👋 Hi there! I’m Larissa Terada</h1>
   
-- 📚 I'm a Full Stack Developer student at LABENU
+- 📚 Full Stack Developer student at LABENU
 - 🌱 I’m currently learning JavaScript
 
 <div align="center">
