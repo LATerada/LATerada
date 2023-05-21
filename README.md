@@ -1,7 +1,7 @@
   <h1>👋 Hi there! I’m Larissa Terada</h1>
   
 - 📚 Full Stack Developer student at LABENU
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Cloud Systems and AWS
 
 <div align="center">
   <a href="https://github.com/LATerada">
